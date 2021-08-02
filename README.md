@@ -1,2 +1,2 @@
-Hello, This is my first git commit
+Hello, This is my first git commiit
 editied by vi
